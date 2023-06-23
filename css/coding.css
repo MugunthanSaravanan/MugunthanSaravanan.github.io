@@ -117,6 +117,40 @@
 }
 /* --------------CODECHEF--------------------------------------- */
 
+/* --------------CODINGNINJAS--------------------------------------- */
+
+.links-codingninja{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-codingninja:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #f09129;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#f09129,#eceae5,#eceae5,#f09129);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#f09129,#eceae5,#eceae5,#f09129); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: black;
+}
+/* --------------CODINGNINJAS--------------------------------------- */
+
 /* --------------HOME--------------------------------------- */
 
 .links-home{
