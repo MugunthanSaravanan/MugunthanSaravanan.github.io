@@ -31,7 +31,6 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/MugunthanSaravanan/MugunthanSaravanan.github.io)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mugunthan.me)
-[![Author](https://img.shields.io/badge/Author-Vaishnavi%20Patil-blue.svg)](https://www.linkedin.com/in/mugunthansaravanan/)
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects.</p>
  
