@@ -26,3 +26,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mugunthansaravanan&show_icons=true&theme=tokyonight" alt="mugunthan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugunthansaravanan&" alt="mugunthan_s" /></p>
+
+# <a href="https://mugunthan.me/" target="_blank">My Portfolio Website</a>
+
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/MugunthanSaravanan/MugunthanSaravanan.github.io)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mugunthan.me)
+[![Author](https://img.shields.io/badge/Author-Vaishnavi%20Patil-blue.svg)](https://www.linkedin.com/in/mugunthansaravanan/)
+
+ <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects.</p>
+ 
+Please ping me at mailtomugunthans@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
