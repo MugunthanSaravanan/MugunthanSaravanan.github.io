@@ -96,7 +96,37 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   color: white;
 }
 /* --------------X--------------------------------------- */
+/* --------------Threads--------------------------------------- */
 
+.links-threads{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-threads:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #000000;  /* fallback for old browsers */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------Threads--------------------------------------- */
 /* --------------HOME--------------------------------------- */
 
 .links-home{
