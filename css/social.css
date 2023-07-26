@@ -67,7 +67,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
 
 /* --------------X--------------------------------------- */
 
-.links-twitter{
+.links-x{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -81,7 +81,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   font-size: 15px;
 }
 
-.links-twitter:hover{
+.links-x:hover{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
